@@ -1,0 +1,202 @@
+spotify-this-song
+
+    Artists: Dan + Shay,Justin Bieber
+    Song: 10,000 Hours (with Justin Bieber)
+
+    Preview: https://p.scdn.co/mp3-preview/a3e97b632968fe644ea13d758629e50b26d12c3d?cid=fee4ef739d3d4594a29efc53302d839d
+
+    Album: 10,000 Hours (with Justin Bieber)
+concert-this
+What: Pechanga Arena San Diego
+
+      Where: San Diego
+
+      When: 11/07/2019
+What: Bankers Life Fieldhouse
+
+      Where: Indianapolis
+
+      When: 11/15/2019
+What: Talking Stick Resort Arena
+
+      Where: Phoenix
+
+      When: 11/08/2019
+What: Wells Fargo Center
+
+      Where: Philadelphia
+
+      When: 11/21/2019
+What: Mohegan Sun Arena
+
+      Where: Uncasville
+
+      When: 11/22/2019
+What: PPG Paints Arena
+
+      Where: Pittsburgh
+
+      When: 11/23/2019
+What: Mercedes-Benz Stadium
+
+      Where: Atlanta
+
+      When: 11/17/2019
+What: James Brown Arena
+
+      Where: Augusta
+
+      When: 11/18/2019
+What: Rocket Mortgage FieldHouse
+
+      Where: Cleveland
+
+      When: 11/16/2019
+What: CenturyLink Center
+
+      Where: Bossier City
+
+      When: 12/05/2019
+What: United Supermarkets Arena
+
+      Where: Lubbock
+
+      When: 12/06/2019
+What: AT&T Center
+
+      Where: San Antonio
+
+      When: 12/07/2019
+What: Bridgestone Arena
+
+      Where: Nashville
+
+      When: 12/13/2019
+What: Bridgestone Arena
+
+      Where: Nashville
+
+      When: 12/12/2019
+What: Peoria Civic Center
+
+      Where: Peoria
+
+      When: 02/08/2020
+What: Bridgestone Arena
+
+      Where: Nashville
+
+      When: 02/10/2020
+What: Bryce Jordan Center
+
+      Where: University Park
+
+      When: 02/13/2020
+What: Rupp Arena
+
+      Where: Lexington
+
+      When: 02/14/2020
+What: Van Andel Arena
+
+      Where: Grand Rapids
+
+      When: 02/15/2020
+What: 3Arena
+
+      Where: Dublin
+
+      When: 03/13/2020
+What: The O2
+
+      Where: London
+
+      When: 03/15/2020
+What: KFC Yum! Center
+
+      Where: Louisville
+
+      When: 12/11/2019
+What: Isleta Amphitheater
+
+      Where: Albuquerque
+
+      When: 04/18/2020
+What: Broadmoor World Arena
+
+      Where: Colorado Springs
+
+      When: 04/19/2020
+What: NMSU Pan American Center
+
+      Where: Las Cruces
+
+      When: 04/21/2020
+What: Mizzou Arena
+
+      Where: Columbia
+
+      When: 02/07/2020
+What: American Bank Center Selena Auditorium
+
+      Where: Corpus Christi
+
+      When: 04/24/2020
+What: Toyota Center
+
+      Where: Houston
+
+      When: 04/25/2020
+What: Kidd Brewer Stadium
+
+      Where: Boone
+
+      When: 05/02/2020
+What: Carolina Country Music Fest
+
+      Where: Myrtle Beach
+
+      When: 06/04/2020
+What: The Country Fest
+
+      Where: North Lawrence
+
+      When: 06/20/2020
+What: Winstock Country Music Festival
+
+      Where: Winsted
+
+      When: 06/13/2020
+What: Nebraskaland Days
+
+      Where: North Platte
+
+      When: 06/26/2020
+What: Heartland Stampede
+
+      Where: Topeka
+
+      When: 06/27/2020
+movie-this
+Annabelle
+
+    Released: 03 Oct 2014
+
+    IMDB rating:  5.4
+
+    Rotten Tomatoes: 29%
+
+    Made in USA using English
+
+    Plot: A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.
+
+    Actors: Annabelle Wallis, Ward Horton, Tony Amendola, Alfre Woodard
+do-what-it-says
+spotify-this-song
+
+    Artists: Backstreet Boys
+    Song: I Want It That Way
+
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=fee4ef739d3d4594a29efc53302d839d
+
+    Album: The Hits--Chapter One
